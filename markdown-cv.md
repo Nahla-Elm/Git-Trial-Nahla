@@ -1,6 +1,6 @@
 # Nahla Elmawieh
 
-<img src="nahlaelmawieh.jpg">
+![nahlaelmawieh](nahlaelmawieh.png)
 
 ## Personal Information 
 
