@@ -21,9 +21,9 @@ Third year, some of my coursese are Software Engineering, Customer Side Web Deve
 <code>Lebanese University</code> ***2016 - 2020***
 
 
-### Baccalaureat in General Science ***2016***
+### Baccalaureat in General Science 
 
-<code>Al-Jinan High School</code>
+<code>Al-Jinan High School</code> ***2016***
 
 
 ## Languages
