@@ -12,18 +12,18 @@ Email: nahlaelm99@gmail.com
 
 ### Computer science
 
-#### Lebanese university  <code>2020 - present</code>
+<code>Lebanese University</code> ***2020 - present***
 
-Third year, some of my coursese are Software Engineering, Customer Side Web Developmnet, Organization of Computers, Administration Szystem, Imperative Programming, Operatig System, Graph Interface.
+Third year, some of my coursese are Software Engineering, Customer Side Web Developmnet, Organization of Computers, Administration System, Imperative Programming, Operatig System, Graph Interface.
 
 ### Chemistry
 
-#### Lebanese University <code>2016 - 2020</code>
+<code>Lebanese University</code> ***2016 - 2020***
 
 
-### Baccalaureat in General Science <code>2016</code>
+### Baccalaureat in General Science ***2016***
 
-Al-Jinan High School
+<code>Al-Jinan High School</code>
 
 
 ## Languages
